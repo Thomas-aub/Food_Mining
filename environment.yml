@@ -1,0 +1,17 @@
+name: food_mining
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - umap-learn
+  - sentence-transformers
+  - scipy
+  - pip
+  - pip:
+      - unidecode
