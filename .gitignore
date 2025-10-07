@@ -207,4 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 
-data/row_data/*
+data/row_data/*data/distance_matrix_cosine.npy
