@@ -4,3 +4,4 @@
 	2.	No similarity metric: Can’t measure if “tomato” and “basil” are related (they often co-occur in Italian recipes)
 	3.	Each ingredient is isolated: Your current matrix is essentially  n_ingredients × 1  (each ingredient appears once), not  n_ingredients × n_recipes 
 This is why all clustering methods failed — there’s literally no structure to discover!
+- using new data , cluster found at 41
