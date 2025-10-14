@@ -1,34 +1,32 @@
 Cluster,Size,Distinctive_Terms,Top_5_Frequent,Avg_Freq,Min_Freq,Max_Freq
--1,9353,"cheese, sauce, mix, chicken, beef","salt, sugar, onion, olive oil, flour",141,0,86964
-2,34,"orange, schnapps, liqueur, vodka, juice","orange juice, orange zest, orange rind, cranberry juice, grenadine",235,0,4490
-13,31,"yeast, dry, bread, flour, bread flour","warm water, bread flour, yeast, dry yeast, powdered milk",234,0,2057
-11,29,"syrup, ice cream, ice, cream, seeds","milk, banana syrup, basil seeds, bubblegum, caramel pudding mix",891,0,25839
-0,26,"tortilla, taco, cheese, flour tortilla, flour","salsa, monterey jack cheese, taco seasoning, tortilla chips, refried beans",360,0,2764
-3,22,"v, yogurt, honey, banana, maid","banana, blackberry yogurt, cereal bars, arrowroot cookies, candied mint leaves",103,0,2271
-10,20,"mix, cake mix, green, coconut, cake","oil, new kitty litter box, clear creme de menthe, licorice whips, onion skins",498,0,9951
-1,20,"lime, liqueur, liqueur lime, melon, juice","lime juice, lime zest, tequila, lime rind, lime peel",258,1,3598
-15,19,"thai, paste, red, fish sauce, paste thai","coconut milk, fish sauce, lemongrass, red chilies, red chile",268,11,1580
-17,19,"caramel, milk chocolate, candy, chocolate, butter","butter, mars bars, peanut butter captain crunch cereal, caramel squares, lucky charms cereal",3108,0,59021
-18,19,"snacks, cereal, ahmed brand, ahmed, goldfish graham","raisins, fruit snacks, grappa, caramel corn, guavaberry",234,0,4414
-16,19,"honey, tea, dried, white chai, butter rue","honey, brewed hibiscus tea, geranium leaf, powdered peanut butter, argan oil",507,1,9620
-21,17,"pickle, relish, dill, pickle relish, dill pickle","mayonnaise, dill pickle, hardboiled egg, pickle juice, pickle",548,0,8367
-27,16,"parmesan, chicken, mozzarella, potatoes, and","skinless chicken breast, barbecue potato chips, chicken coating mix, frozen mozzarella garlic bread, simply potatoes steakhouse seasoned diced potatoes",4,0,44
-4,14,"flexible, flexible plastic, caramello, caramello chocolate, straws folgers","whipped cream, disposable spoons, tuaca liqueur, andes mint parfait thins, cadbury caramello chocolate bars",88,0,1225
-6,13,"lemon, jello, sugarfree, cream, sauce inch","cream cheese, fresca soda, caramel yogurt, chocolate cream, imported soy sauce",753,0,9782
-9,13,"wylers, blueberry schnapps, ragi flour, ragi, jambalaya spice","water, apple cinnamon cheerios, bergamot leaves, blueberry schnapps, cranberry vodka",2713,0,35271
-22,13,"glutenfree, corn, chex, oat cereal, stick","rice chex, corn chex, wheat chex, pretzel stick, bugles original flavor snacks",24,0,105
-19,13,"ground, instant, cereal, fruit caffeinefree, ground allspice","ground cinnamon, ground nutmeg, ground allspice, instant tea powder, crystal light orange drink mix",850,0,6954
-20,13,"pizza, sauce, prepared pizza, pizza sauce, pepperoni","mozzarella cheese, ricotta cheese, pepperoni, pizza sauce, pasta sauce",655,0,5000
-30,12,"turkey, al, original chik, pie soup, chunky turkey","chunky turkey pot pie soup, dried kelp granules, el torito adobo al pastor sauce, granary bread, lamb baby food",0,0,1
-14,12,"fat free, fat, free, coffeeflavor soymilk, melba sauce","diet root beer, reduced sugar devils food cake mix, melba sauce, earth balance shortening, pear halves in syrup",1,0,5
-29,12,"squash, yellow squash, pesto, roasted, yellow","zucchini, yellow squash, summer squash, crookneck yellow squash, fruit jell",452,0,4521
-5,11,"lemon, schnapps seville, seville oranges, oranges spanish, seville","lemon, whole salmon, seville oranges, raspberry schnapps, strawberry vodka",257,0,2806
-8,11,"fish ice, flavoring cherry, ice wine, koshian lamunchi, fatfree cookies","cherry powdered drink mix, gummy fish, ice wine, any desired flavoring, cochineal",1,0,2
-31,11,"bread, white, mustard frozen, burgundy white, white burgundy","dijon mustard, walnut vinegar, white pineau, frozen chicken nibbles, sourdough cocktail bread",493,0,5416
-12,11,"flour, wheat, germ, bran, wheat flour","whole wheat flour, wheat germ, wheat flour, wheat bran, natural bran",427,0,3075
-24,11,"presunto sugarfree, presunto, bar maple, bars vochelle, chocolate walnuts","walnuts, blackberry syrup, ground cranberries, ginger wafer cookie, maple liqueur",526,0,5780
-7,10,"soda, wine nasturtium, granola shochu, soda raisin, dill sauce","shochu, chocolate ripple ice cream, dill sauce, gevalia dark roast, herbsaint",1,1,2
-23,10,"garlic, basilc, basilc garlic, with basilc, bacon","bacon, bacon drippings, toothpick, coating mix, horseradish cheddar cheese",706,0,6785
-25,10,"cake, white, clusters pillsbury, fingers white, cake egg","egg white, sponge cake fingers, white cake layers, chocolate fudge cake, fat free beef and pork hot dogs",166,1,1655
-26,10,"pie, pastry, shell, pie crust, pie shell","pie crust, pie shell, refrigerated pie crust, pastry shells, deep dish pie shell",71,0,315
-28,10,"biscuits, unsalted, butter unsalted, weisswurst sausages, with caraway","unsalted butter, bourbon biscuits, bushmills whiskey, chocolate hazelnut chocolate chip biscuits, havarti with caraway",977,1,9766
+-1,8179,"cheese, chicken, sauce, beef, mix","salt, onion, olive oil, flour, pepper",132,0,86964
+0,820,"liqueur, chocolate, pudding, yogurt, vodka","lemon juice, cream cheese, orange juice, cilantro, lime juice",156,0,13933
+2,244,"paste, chili, noodles, dal, powder","soy sauce, sesame oil, sesame seeds, turmeric, peanut oil",216,0,8961
+8,62,"syrup, tea, drink mix, cherry, ice","sugar, water, frozen lemonade, pectin, cachaca",1341,0,47723
+5,60,"pizza, sauce, pasta, italian, pizza crust","mozzarella cheese, ricotta cheese, cottage cheese, provolone cheese, pepperoni",256,0,5000
+6,42,"flour, bran, oats, wheat, applesauce","whole wheat flour, rolled oats, applesauce, oatmeal, oats",317,0,3075
+14,39,"cake mix, cake, mix, brownie mix, brownie","yellow cake mix, chocolate cake mix, brownie mix, cake mix, lemon cake mix",59,0,897
+3,36,"pickle, tuna, relish, dill, in water","mayonnaise, tuna, lettuce leaf, imitation crabmeat, dill pickle",311,0,8367
+13,35,"syrup, chocolate, ice cream, ice, cream","milk, powdered chocolate milk mix, rose syrup, yogurt starter, banana syrup",740,0,25839
+16,31,"yeast, dry, bread, flour, bread flour","warm water, bread flour, yeast, dry yeast, powdered milk",234,0,2057
+18,29,"chips, chocolate, chocolate chips, mm, plain chocolate","chocolate chips, butterscotch chips, macadamia nuts, mini marshmallows, rice krispies",177,0,2238
+15,25,"ground, instant tea, instant, pumpkin, drink mix","ground cinnamon, ground nutmeg, ground cloves, ground allspice, ground cardamom",608,0,6954
+9,22,"honey, tea, dried, butter, brewed hibiscus","honey, dried peppermint, brewed hibiscus tea, geranium leaf, powdered peanut butter",438,1,9620
+12,20,"mix, cake mix, coconut, cake, green","oil, new kitty litter box, clear creme de menthe, licorice whips, onion skins",498,0,9951
+7,19,"pasta, penne, pasta dry, pasta penne, penne pasta","spaghetti, pasta, penne pasta, linguine, angel hair pasta",327,64,1083
+1,19,"snacks, cereal, ann cherries, guavaberry gummy, raisins royal","raisins, fruit snacks, grappa, caramel corn, guavaberry",234,0,4414
+19,18,"caramel, milk chocolate, chocolate, candy, butter","butter, mars bars, peanut butter captain crunch cereal, caramel squares, lucky charms cereal",3281,0,59021
+17,17,"glutenfree, chex, corn, cereal, oat cereal","rice chex, corn chex, small pretzels, crispix cereal, wheat chex",25,0,105
+21,15,"fat free, free, fat, rum pear, diet root","vanilla extract, diet root beer, reduced sugar devils food cake mix, melba sauce, earth balance shortening",722,0,10827
+4,13,"mozzarella, parmesan, potatoes, and, cream","skinless chicken breast, frozen mozzarella garlic bread, simply potatoes steakhouse seasoned diced potatoes, alfredo noodles mix, hidden valley original ranch cheddar and parmesan dressing",4,0,44
+11,12,"powder, gold leaf, eaudevie gold, ring heavy, yvette","heavy cream, badam powder, classico tomato and basil pasta sauce, creme yvette, gold leaf foil",434,0,5210
+22,12,"cinnamon rolls, cinnamon, rolls, anytime, caramel popped","pecans, cinnamon rolls, praline liqueur, caramel popped popcorn, brandied hard sauce",491,0,5866
+23,12,"cake, white, cake fingers, cake cream, refrigerated whole","egg white, cream of tartar, sponge cake fingers, white cake layers, chocolate fudge cake",227,1,1655
+25,12,"ribs, pork ribs, pork, liquid smoke, smoke","liquid smoke, mustard powder, ground mustard, steak sauce, cola",184,0,663
+27,12,"ham, ham hock, split peas, split, hock","lentils, barley, split peas, celery leaves, ham bone",110,0,472
+20,10,"turkey, muskellunge, patty muskellunge, original chik, torito","chunky turkey pot pie soup, dried kelp granules, el torito adobo al pastor sauce, granary bread, lamb baby food",0,0,1
+10,10,"bacon, basilc garlic, basilc, with basilc, garlic","bacon, bacon drippings, toothpick, coating mix, horseradish cheddar cheese",706,0,6785
+24,10,"honeynougat, wafer cookie, ginger wafer, ground cranberries, oatmeal maple","walnuts, blackberry syrup, ground cranberries, ginger wafer cookie, instant cinnamon roll oatmeal",579,0,5780
+26,10,"decorating, butterfinger, baked flaky, bbs, frozen oven","powdered sugar, black decorating gel, sour apple liqueur, red decorating icing, butterfinger bar",559,0,5567
+28,10,"gelatin, sugarfree, jello, reducedfat pound, water chocolate","boiling water, vanilla tea bags, chocolate frogs, cinnamon cappuccino instant coffee mix, watermelon gelatin",260,0,2596
+29,9,"cookies, butter, cereal, tic tac, fruit rollup","black licorice strings, candy oil, fortune cookies, halloween oreo cookies, nuttter butter bites",1,0,4
