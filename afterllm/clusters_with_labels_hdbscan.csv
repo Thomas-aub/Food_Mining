@@ -1,0 +1,43 @@
+Cluster,Size,Distinctive_Terms,Top_5_Frequent,Avg_Freq,Min_Freq,Max_Freq,Category_Label,Interpretability_Score
+39,184,"liqueur, juice, yogurt, vodka, orange","orange juice, lime juice, banana, orange zest, ice",109,0,4490,Cocktails & Fruit Beverages,0.5119565217391304
+15,90,"pasta, pizza, sauce, italian, tomato","parmesan cheese, mozzarella cheese, ricotta cheese, crushed tomatoes, spaghetti",454,0,15182,Italian Cuisine (Pasta & Pizza),0.46454882650124707
+32,23,"wine, soda, cherry, ice, tea","cherry powdered drink mix, gummy fish, ice wine, shochu, any desired flavoring",0,0,2,Novelty Beverages & Wine,0.365
+34,62,"tortilla, corn, beans, chile, taco","salsa, monterey jack cheese, jalapeno pepper, jalapeno, frozen corn",279,0,2764,Mexican Cuisine (Tex-Mex),0.3559921156373193
+2,13,"turkey, torito adobo, turkey slices, lightlife turkey, chunky turkey","blended scotch whisky, chunky turkey pot pie soup, dried kelp granules, el torito adobo al pastor sauce, granary bread",0,0,1,Ultra-Rare/Data Quality Issues,0.315
+30,53,"paste, sauce, noodles, chinese, sesame","sesame oil, rice vinegar, fish sauce, hoisin sauce, rice wine vinegar",282,0,3050,Asian Cuisine (Chinese & Thai),0.30745424542454247
+37,11,"cups, cream, shortcake, yogurtcovered pretzels, topping fruitflavored","blueberry ice cream, chocolate liqueur cups, dole pineapple, organic peanut butter, passion fruit and strawberry salad dressing",0,0,1,Miscellaneous Dessert Items,0.305
+29,32,"dal, powder, seeds, gram, coriander","cumin seed, garam masala, mustard seeds, red chili powder, turmeric powder",173,1,834,Indian Cuisine (Spices & Dal),0.24639523336643496
+24,16,"caramel, milk chocolate, candy, chocolate, cereal","peanut butter captain crunch cereal, caramel squares, lucky charms cereal, candy coated chocolate eggs, candy pumpkins",1,0,5,Candy & Cereal Treats,0.22285714285714286
+40,38,"cream, chocolate, liqueur, vodka, ice cream","whipped cream, kahlua, baileys irish cream, coffee liqueur, irish cream",76,0,1225,Creamy Cocktails & Liqueurs,0.21956989247311828
+12,38,"tuna, pickle, relish, dill, salad","mayonnaise, mustard, crabmeat, tuna, lettuce leaf",344,0,8367,Seafood Salads & Sandwiches,0.20980027548209368
+13,33,"ribs, pork, mustard, pork ribs, corn","worcestershire sauce, ketchup, prepared mustard, liquid smoke, catsup",494,0,7528,BBQ & Ribs (Pork Dishes),0.19584880967219245
+38,20,"chocolate, crumbs, powder, cookie, cocoa powder","cocoa powder, unsweetened cocoa powder, semisweet chocolate, graham cracker crumbs, dark chocolate",376,1,1595,Chocolate Baking (Cocoa),0.195636732623034
+22,27,"yeast, bread, dry, bread flour, gluten","warm water, bread flour, yeast, dry yeast, powdered milk",266,0,2057,Bread Making (Yeast Baking),0.19244406196213426
+25,24,"flour, wheat, bran, bran oat, sugar substitute","whole wheat flour, rolled oats, splenda sugar substitute, oatmeal, oats",512,0,3075,Healthy Baking (Whole Grains),0.19148829431438127
+10,13,"flour, bisquick, baking mix, mix, baking","vanilla essence, bisquick, bisquick baking mix, self rising flour, baking mix",135,0,478,Baking Mixes (Bisquick),0.17574918566775244
+14,16,"lettuce, arugula, baby, greens, lettuce butter","romaine lettuce, baby spinach, goat cheese, arugula, mixed greens",227,0,977,Fresh Salad Greens,0.17460580912863072
+31,29,"syrup, ice cream, ice, cream, soda","milk, banana syrup, basil seeds, bubblegum, caramel pudding mix",892,0,25839,Ice Cream & Sweet Syrups,0.1617028280712255
+28,23,"cake mix, cake, mix, brownie mix, brownie","yellow cake mix, chocolate cake mix, brownie mix, cake mix, lemon cake mix",90,0,897,Box Mixes (Convenience Baking),0.16105263157894736
+5,24,"cake, white cake, reducedfat, white, powder","egg white, cream of tartar, diet soda, cherry extract, violets",115,0,1655,Light Baking (Reduced Fat),0.15274985883681536
+26,21,"chips, chocolate chips, butter, chocolate, candy","chocolate chips, butterscotch chips, rice krispies, salted peanuts, crunchy peanut butter",205,0,2238,Dessert Add-ins (Chips & Candy),0.14714402618657937
+20,19,"ground, pumpkin, instant tea, instant, tea","ground cinnamon, ground nutmeg, ground cloves, ground allspice, ground cardamom",806,0,6954,Ground Spices (Baking),0.1469907228449942
+16,14,"beef, chuck, roast, chuck roast, beef bouillon","beef stock, chuck roast, beef bouillon cube, beef bouillon, round steak",166,4,986,Beef Dishes (Chuck & Roast),0.14267188859878155
+6,10,"pie, shell, pastry, inch, deep","pie crust, pie shell, pastry shells, deep dish pie shell, pie pastry",64,0,315,Pie & Pastry Components,0.1355263157894737
+17,22,"dried, honey, tea, white chai, currant juice","honey, dried peppermint, yogurt starter, brewed hibiscus tea, geranium leaf",438,1,9620,Tea & Herbal Ingredients,0.13182342413998807
+8,16,"chicken, parmesan, mozzarella, potatoes, and","skinless chicken breast, barbecue potato chips, chicken coating mix, frozen mozzarella garlic bread, simply potatoes steakhouse seasoned diced potatoes",4,0,44,Prepared/Convenience Foods,0.1310204081632653
+27,20,"mix, cake mix, coconut, cake, green","oil, new kitty litter box, clear creme de menthe, licorice whips, onion skins",498,0,9951,Novelty/Party Foods (Data Issues),0.1238755980861244
+21,18,"snacks, cereal, guavaberry, ann, cinnamon goldfish","raisins, fruit snacks, caramel corn, guavaberry, gummy bears",246,0,4414,Snacks & Dried Fruits,0.11649645998712722
+0,16,"mushroom, soup, sauce, free, tomato","mushroom, dove breasts, fat free hollandaise mix, fat free vegetable soup, tomato sauce with herbs",125,0,1989,Low-Fat Alternatives & Soups,0.1097872340425532
+3,13,"squash, roasted, yellow squash, garlic, pesto","zucchini, yellow squash, summer squash, crookneck yellow squash, fruit jell",417,0,4521,Summer Squash & Vegetables,0.1073162583518931
+18,15,"fat free, free, fat, coffeeflavor, beer earth","vanilla extract, diet root beer, reduced sugar devils food cake mix, kudzu, melba sauce",722,0,10827,Diet/Reduced Products,0.1062987012987013
+23,11,"split peas, split, peas, barley, rutabaga","carrot, pearl barley, barley, parsnip, turnip",725,43,6547,Soup Ingredients (Split Peas & Barley),0.10520746887966806
+36,13,"lemon, basil rub, oat biscuits, fillets strawberry, rub tilapia","lemon, whole salmon, seville oranges, advocaat, raspberry schnapps",218,0,2806,Fish & Citrus,0.10119834710743802
+33,13,"cheerios bergamot, green jello, sugarfree pineapple, blueberry schnapps, cinnamon cheerios","water, apple cinnamon cheerios, bergamot leaves, blueberry schnapps, cranberry vodka",2713,0,35271,Flavored Cereals & Schnapps (Data Issues),0.1007246281426879
+19,12,"powder, heavy cream, mix zatarainscae, pista powder, ring heavy","heavy cream, instant espresso, badam powder, creme yvette, gold leaf foil",438,0,5210,Specialty Powders & Creams,0.09885643476721544
+35,12,"cream, potatoes garlic, inch chocolate, yogurt chocolate, covered oreos","cream cheese, white fudge covered oreos, caramel yogurt, chocolate cream, imported soy sauce",816,0,9782,Cream Cheese Desserts,0.0985413718275309
+7,12,"dressing, bread, crackedwheat bread, pepper hummus, bread fry","tomatoes, roasted bell pepper hummus, astragalus root, fry bread, sour cream and bacon salad dressing",986,0,11828,Bread & Dressing (Mixed),0.09850955911041748
+9,11,"basilc, basilc garlic, with basilc, garlic, garlic and","bacon, toothpick, coating mix, horseradish cheddar cheese, maple cured bacon baked beans",628,0,6785,Bacon & Savory Items (Data Issues),0.09741974642568114
+11,10,"cinnamon, honeynougat, maple liqueur, cinnamon roll, oatmeal maple","walnuts, blackberry syrup, ginger wafer cookie, instant cinnamon roll oatmeal, maple liqueur",578,0,5780,Maple & Cinnamon Baking,0.09552602610473346
+4,10,"biscuits, unsalted, unsalted matzos, biscuits bushmills, chip biscuits","unsalted butter, bourbon biscuits, bushmills whiskey, candy lemon slices, chocolate hazelnut chocolate chip biscuits",977,0,9766,International Biscuits & Whiskey,0.09551377513030529
+1,10,"spread, chestnut meats, avgolemono, onion spreadable, italian sweet","pepper, italian sweet vermouth, avgolemono sauce, chestnut meats, corned beef spread",2210,0,22101,Specialty Spreads & Meats,0.09547137216189536
+-1,8797,"cheese, chicken, sauce, mix, dried","salt, butter, sugar, onion, olive oil",137,0,86964,Universal Ingredients (Noise),0.0
