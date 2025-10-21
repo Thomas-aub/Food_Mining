@@ -1,5 +1,0 @@
-method,variant,n_clusters,global_noise_pct,global_silhouette,fit_time_seconds
-DBSCAN,"{'eps': 0.5, 'min_samples': 10}",18,94.24168694241686,0.42448305285587723,0.18173003196716309
-HDBSCAN,"{'min_cluster_size': 15, 'min_samples': 5, 'cluster_selection_epsilon': 0.5}",25,90.93673965936739,0.34055104729240687,6.85758900642395
-K-Means,{'n_clusters': 100},100,0.0,0.055014086388907285,0.11925673484802246
-Agglomerative,"{'n_clusters': 40, 'linkage': 'ward'}",40,0.0,0.023108199708543328,2.2163760662078857
