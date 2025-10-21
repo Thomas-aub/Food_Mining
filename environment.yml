@@ -5,13 +5,22 @@ channels:
 dependencies:
   - python=3.10
   - pandas
-  - numpy
+  - numpy>=1.24
   - matplotlib
   - seaborn
   - scikit-learn
   - umap-learn
-  - sentence-transformers
   - scipy
+  - nltk
+  - numba=0.57.1
+  - llvmlite=0.40.1
+  - swifter
+  - spacy
+  - spacy-model-en_core_web_sm
   - pip
   - pip:
       - unidecode
+      - sentence-transformers
+      - langdetect
+      - textblob
+      - python-Levenshtein
