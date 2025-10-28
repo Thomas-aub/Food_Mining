@@ -1,0 +1,30 @@
+name: food_mining
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy>=1.24
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - umap-learn
+  - scipy
+  - nltk
+  - numba=0.57.1
+  - llvmlite=0.40.1
+  - swifter
+  - spacy
+  - pip
+  - hdbscan
+  - plotly
+  - tqdm
+  - joblib
+  - spacy-model-en_core_web_sm
+  - pip:
+      - unidecode
+      - sentence-transformers
+      - langdetect
+      - textblob
+      - python-Levenshtein
