@@ -1,7 +1,6 @@
 """
 keywords.py
 Food and cuisine keyword mappings for cluster purity and theme detection.
-This modular file replaces inlined `cuisine_keywords` definitions in TF-IDF analysis.
 """
 
 # Cuisine, theme, and cross-category culinary keyword lists

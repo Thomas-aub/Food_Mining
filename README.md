@@ -4,7 +4,7 @@ This repository contains a complete pipeline for **preprocessing, embedding, clu
 
 ---
 
-## 📂 Notebooks Overview
+## Notebooks Overview
 
 ### 0_process_raw_data.ipynb
 - **Purpose:** Load raw CSV files (`recipes.csv` and `terms.csv`), merge them, and select relevant columns (`name_x`, `nutrition`, `n_steps`, `ingredients_y`, `minutes`).  
@@ -48,9 +48,12 @@ This repository contains a complete pipeline for **preprocessing, embedding, clu
   6. Optionally compare with precomputed labels.  
   7. Export detailed TF-IDF and purity metrics to CSV files.
 
+### keywords.py
+- **Manual labeling** : Food and cuisine keyword mappings for cluster purity and theme detection.
+
 ---
 
-## ⚙️ Installation
+## Installation
 
 The environment can be set up using **conda** from the provided `environment.yml` file.
 
@@ -77,7 +80,7 @@ conda activate food_mining
 
 ---
 
-## 📌 Usage
+## Usage
 
 1. **Start with raw data preprocessing:**  
    `0_process_raw_data.ipynb` → generates `recipes.csv`.
@@ -96,16 +99,16 @@ conda activate food_mining
 
 ---
 
-## 📊 Output
+## Output
 
 - Cleaned datasets: `data/clean_data/recipes.csv`, `recipes_cleaned.csv`
-- Ingredient dictionary: `ingredient_dictionary.csv`
-- Cluster labels (DBSCAN, HDBSCAN, KMeans, Agglomerative)
-- TF-IDF reports and purity metrics: `./tfidf/`
+- Ingredient dictionary: `data/clean_data/ingredient_dictionary.csv`
+- Cluster labels (DBSCAN, HDBSCAN, KMeans, Agglomerative) : `notebooks/outputlabels`
+- TF-IDF reports and purity metrics: `notebooks/tfidf/`
 
 ---
 
-## 🔗 Notes
+## Notes
 
 - The pipeline is modular: you can skip steps if preprocessed datasets or labels already exist.  
 - TF-IDF and cosine-based clustering analyses can be used for **ingredient recommendation**, **recipe similarity**, and **semantic analysis** of culinary data.
